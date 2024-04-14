@@ -21,7 +21,8 @@ Use the effects in a square and shadow lighting effect ---
 
 In this add the icon like edit, delete, position, profile picture using the asserts folder 
 
-![image](https://github.com/ramilachanchiya188/Flutter_widget/assets/164127763/9ad215df-2a45-433e-8403-ba3321985e5a)
+![image](https://github.com/ramilachanchiya188/Flutter_widget/assets/164127763/76a07a37-fae2-48ee-a39d-27b172a547de)
+
 
 
 *widget-5
