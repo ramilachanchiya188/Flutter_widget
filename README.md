@@ -23,3 +23,10 @@ In this add the icon like edit, delete, position, profile picture using the asse
 
 ![image](https://github.com/ramilachanchiya188/Flutter_widget/assets/164127763/e98c4338-9ed5-4577-8362-4c9d26057230)
 
+*widget-5
+
+Example of row text in a container --
+
+![image](https://github.com/ramilachanchiya188/Flutter_widget/assets/164127763/058c6d40-0a96-431c-87e6-1c6cecb63609)
+
+
