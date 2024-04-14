@@ -16,3 +16,8 @@ This is a widget-1 file in implimantation of widget-2 file
 Use the effects in a square and shadow lighting effect ---
 
 ![image](https://github.com/ramilachanchiya188/Flutter_widget/assets/164127763/b75c9750-eee1-4b1a-9fbb-babe11968afb)
+
+*widget-4
+
+![image](https://github.com/ramilachanchiya188/Flutter_widget/assets/164127763/e98c4338-9ed5-4577-8362-4c9d26057230)
+
